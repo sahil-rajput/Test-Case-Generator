@@ -1,2 +1,2 @@
 # Test-Case-Generator
-Design a Test Case Generator Program using C++, through which we can generate test cases for Online Judge
+Design and implemented a Test Case Generator program for Online Judge using C++. It has a feature to generate Test Cases Automatically
